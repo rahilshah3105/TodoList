@@ -1,0 +1,4 @@
+/* Clean up old App.css styles as we are moving to Tailwind */
+#root {
+  width: 100%;
+}
